@@ -18,9 +18,9 @@ print(val.typecode)             # gives the type code of array elements
 for i in range(len(val)):       # for loop to print all values in val array
     print(val[i], end=', ')
 
-
 print()
 for e in val:                   # EVEN MORE EFFICIENT WAY to use for loop
+
     print(e, end='.. ')
 
 

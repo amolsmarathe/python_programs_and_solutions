@@ -9,6 +9,7 @@ x = array('i', [])
 for i in range(n):
     x.append(int(input('Enter the number of your choice- ')))
 
+
 print(x)
 
 # QUE: Write the code to reverse an array without using built-in function:
